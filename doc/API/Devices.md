@@ -927,7 +927,6 @@ Input:
   - ipv4: search by IPv4 address
   - ipv6: search by IPv6 address (compressed or uncompressed)
   - location: search by location
-  - hostname: search pattern in hostname (fqdn)
 - query: If searching by, then this will be used as the input.
 
 Example:
